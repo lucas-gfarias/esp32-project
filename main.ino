@@ -12,8 +12,8 @@
 #define buzPin 14
 
 // firebase
-#define FIREBASE_HOST "https://esp32-fb4f9-default-rtdb.firebaseio.com/"
-#define FIREBASE_AUTH "SK8u29SvxsNYityW84PwX4Ccmyrg1hRzmy5sHfjY"
+#define FIREBASE_HOST "https://yourfirebares.com/"
+#define FIREBASE_AUTH "random cryptografed authentication key"
 #define WIFI_SSID "YOUR SSID"
 #define WIFI_PASSWORD "YOURPASSWORD"
 
