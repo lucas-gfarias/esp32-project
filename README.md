@@ -15,9 +15,9 @@ Primeiro é preciso baixar as libraries:
 ``` DTH.H; WiFi.h; IOXhop_FirebaseESP32; OneWire.h; DallasTemperature.h; PulseSensorPlayground.h ``` 
 
 ## Montagem do circuito  
-**Pino do buzzer.............:** 14 (GPIO14)  
-**Pino do termômetro corporal:** 18 (GPIO18)  
-**Pino do sensor DHT.........:** 16 (GPIO16)  
+**Pino do buzzer.............:** 14(GPIO14)  
+**Pino do termômetro corporal:** 18(GPIO18)  
+**Pino do sensor DHT.........:** 16(GPIO16)  
 **Pinos do Oxímetro..........:** SDA(GPIO21) & SCL(GPIO22)  
 
 Utilizar ***5V***.
